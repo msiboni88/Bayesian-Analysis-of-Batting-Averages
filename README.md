@@ -6,4 +6,4 @@ Assumed a Prior Distribution for all players. This was a beta distribution where
 Utilizing this Prior Distribution and any given players hits and at bat data, calculated a poterior distribution. 
 
 #### Plot of Major League Batting Average Versus Posterior Batting Average
-![](link)
+![](https://github.com/msiboni88/Bayesian-Analysis-of-Batting-Averages/blob/master/images/Unknown.png)
